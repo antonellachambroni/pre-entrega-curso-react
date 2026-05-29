@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Royal Canin Maxi Junior", "precio": 15000, "categoria": "Perros", "img": "images/01.png" },
+  { "id": 2, "title": "Snack Soft Masticable",   "precio": 7990,  "categoria": "Perros", "img": "images/02.png" },
+  { "id": 3, "title": "Dog Chow Adulto",         "precio": 12500, "categoria": "Perros", "img": "images/03.png" }
+]
